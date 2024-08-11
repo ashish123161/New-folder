@@ -119,7 +119,12 @@
 // console.log("according to your score, your grade was : " , grade);
 
 
+for (let count = 1; count <= 45; count++){
 
+    console.log("ashish");
+}
+    
+console.log("loop is end ");
 
 // let sum = 0;
 // let n = 5;
