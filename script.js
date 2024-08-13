@@ -119,12 +119,12 @@
 // console.log("according to your score, your grade was : " , grade);
 
 
-for (let count = 1; count <= 45; count++){
+// for (let count = 1; count <= 45; count++){
 
-    console.log("ashish");
-}
+//     console.log("ashish");
+// }
     
-console.log("loop is end ");
+// console.log("loop is end ");
 
 // let sum = 0;
 // let n = 5;
@@ -134,3 +134,114 @@ console.log("loop is end ");
 // }
 // console.log("sum =" , sum);
 // console.log("loop has end ");
+
+
+
+// let i = 1;
+// while(i<=5){
+//     console.log("ashish");
+//     i++;
+
+// }
+
+// let i = 1;
+// do {
+//     console.log("i=" ,i);
+//     i++;
+// }while (i<=10);
+
+//for loop
+
+// let str = "ashish";
+
+// let size =0;
+// for(let i of str) {
+//     console.log("i=",i);
+//     size++;
+// }
+
+// console.log("string size =" ,size);
+
+//for in loop
+
+// let student = {
+//     name :"ashish",
+//     age :35,
+//     cgpa:7.8,
+//     ispass: true,
+// };
+// for (let key in student){
+//     console.log("key=",key, "value=",student[key]);
+// }
+//Print even number
+// for (let num =0; num <=100; num++) {
+//     if (num % 2 === 0){
+//         console.log("num =", num);
+//     }
+// }
+
+//game
+
+// let gameNum = 25 ;
+
+// let userNum = prompt("guess the game number : ");
+
+// while (userNum != gameNum) {
+//    userNum = prompt("you enter wrong number. Guess again : ");
+// }
+
+// console.log("congratualtion ,youn enter the right number");
+
+
+//let str = "ashis chaudhary";
+
+// let  str =(" ram chaidharuy");
+// console.log(str[8]); 
+
+// let str = "  ashish chaudhary js";
+// console.log(str.trim());
+
+
+// let str1 ="ashish";
+// let str2 ="chaudhary";
+
+// let res =str1+str2;
+// console.log(res);
+
+// let str = "hello";
+
+// console.log(str.replace ("h" , "y"));
+
+// let str = "i love js";
+
+// console.log(str.charAt(4));
+
+
+let fullName = prompt("enter ypur fullname without spaces");
+
+let username ="@" + fullName +fullName.length;
+
+console.log(username);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
